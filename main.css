@@ -92,6 +92,58 @@ header{
     --clippy: polygon(0 0, 100% 0, 100% 100%, 0 100%); }
 
 
+
+.principal__insti{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pricipal__section__insti{
+    margin: 50px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pricipal__section__contacto{
+    width: 100%;
+    background: linear-gradient(to right, #78ffd771, #00799175), url(../codoacodo/img/carritomain.jpg);
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section__insti__h3{
+    margin-top: 5px;
+}
+
+.form__insti{
+    
+    display: flex;
+}
+
+.form__insti__mail{
+    padding-top: 50px;
+    margin-right: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.form__insti__coments{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.iframe{
+    padding-top: 50px;
+    margin: 20px;
+    width: 1000px;
+}
+
 /*--------------*/
 
 
