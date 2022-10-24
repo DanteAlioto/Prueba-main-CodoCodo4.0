@@ -162,7 +162,20 @@
     padding-right: 300px;
 }
 
-
+.contenedor-footer{
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    background:#01284d; 
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    display: flex;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #ffff;
+    }
 
 
 
